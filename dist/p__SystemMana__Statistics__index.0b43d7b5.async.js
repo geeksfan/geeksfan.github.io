@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkant_design_pro=self.webpackChunkant_design_pro||[]).push([[816],{43020:function(i,t,n){n.r(t),n.d(t,{default:function(){return e}});var s=n(52676);function e(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("h1",{children:"My Custom Page"}),(0,s.jsx)("p",{children:"This is a custom page in the Ant Design Pro application."})]})}}}]);
