@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2734c926.cssd:\project\studying\yd\sz\myapp-antdesign-pro\dist",
+    "main.js": "/static/js/main.3d53f98a.js",
+    "index.html": "/index.html",
+    "main.2734c926.css.map": "/static/css/main.2734c926.css.map",
+    "main.3d53f98a.js.map": "/static/js/main.3d53f98a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2734c926.css",
+    "static/js/main.3d53f98a.js"
+  ]
+}
